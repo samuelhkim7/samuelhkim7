@@ -32,20 +32,6 @@ research @ harvard gse building rl environments and evals for llms tuned for cla
   <img alt="git" src="https://img.shields.io/badge/git-161b22?style=flat-square&logo=git&logoColor=white">
 </p>
 
-### selected work
-
-[**pAIc-man**](https://github.com/mmattyV/pAIc-man)<br>
-multiplayer pac-man on a distributed system, with grpc, raft consensus and state replication across server nodes. ai agents can play the ghosts or pac-man.
-
-[**mintedlegacy**](https://moneymattersfinal.vercel.app)<br>
-a digital exhibition on the history of coinage, built with react, typescript, shadcn/ui and supabase. won best project in harvard's history of art and architecture department.
-
-[**miniml**](https://github.com/samuelhkim7/CS51FinalProject)<br>
-an interpreter for a small subset of ocaml, written in ocaml.
-
-[**dynamic memory allocator**](https://gitfront.io/r/heung77/EDJWYXyanMoy/cppdynamicmem/)<br>
-a c++ allocator that catches invalid frees, double frees, boundary writes and leaks, and coalesces free blocks for reuse.
-
 ### elsewhere
 
 [email](mailto:samulhkim7@gmail.com) · [linkedin](https://www.linkedin.com/in/samuel-jaehyung-kim/) · site coming soon
