@@ -7,7 +7,8 @@
 
 software engineer from los angeles, studying computer science at harvard.
 
-working as an mts intern @ zendō labs building long-horizon tool-use rl environments for post-training frontier models. prev @ aws, amazon agi, contractsafe.
+working as an mts intern @ zendō labs building long-horizon tool-use rl environments for post-training frontier models.<br>
+prev @ aws, amazon agi, contractsafe.
 
 research @ harvard gse building rl environments and evals for llms tuned for classroom learning.
 
